@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "BA-Sorterキャラ名日本語変換",
+  "version": "1.0",
+  "description": "BA-Sorterで表示される英語のブルアカキャラ名を日本語に変換して表示します",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://ba-sort.netlify.app/"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
