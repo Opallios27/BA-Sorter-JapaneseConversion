@@ -16,7 +16,7 @@ https://bluearchive.wikiru.jp/?プロフィール一覧
 
 ③「パッケージ化されていない拡張機能を読み込む」から本拡張機能のフォルダを指定
 
-④ 結果画面のあるサイトにアクセス → 表示が自動的に日本語化される
+④ BA-Sorterサイトにアクセス → 表示が自動的に日本語化される
 
 
 
@@ -24,6 +24,6 @@ https://bluearchive.wikiru.jp/?プロフィール一覧
 
 Development: オパール With ChatGPT
 
-Twitter　https://x.com/Opallios27
+Twitter: https://x.com/Opallios27
 
 *:.。..。.:+・゜ ゜゜・*:.。..。.:+・゜ ゜゜・*:.。..。.:+・゜ ゜゜・*:.。..。.:・*:.。..。.:+・゜*:.。..。.:+・゜
